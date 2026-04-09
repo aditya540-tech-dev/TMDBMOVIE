@@ -3,3 +3,6 @@ scikit-learn
 fastapi
 uvicorn
 httpx
+numpy
+python-dotenv
+pydantic
